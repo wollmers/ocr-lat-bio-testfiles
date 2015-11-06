@@ -1,0 +1,94 @@
+# ocr_compare of tesseract versus corr = ground truth
+
+1' R E P A T I O.¶
+=+|||=|=|||||||||| 0.778
+P_ R Æ F A T I O.¶
+
+ejl (lljfälfïl__tlll illaf_pecijiea, quæ ab una¶
+|==|==++|++|==--|==+|||||=-||||=|=||||||||||||=| 0.583
+eſt di__f__ferentia_ illa ſpecifica, quæ ab uno¶
+
+alionef_pecimine in ]Wiyäeo avi/b, aut ab¶
+||||=|=-||||||||||||====++||+||==||||||||| 0.714
+aliove ſpecimine in Muſæ__o _viſo, aut ab¶
+
+Amicis eo___nnnnnicaio dejinnm_ifnr, cum¶
+|||||||=|---|++++|||=||||==++|-|==||||||| 0.610
+Amicis commun____icato deſu__mmitur, cum¶
+
+idem in aliis regionibus alia meda,/_e¶
+||||||||||||||||||||||||||||=||=|=|=-|| 0.872
+idem in aliis regionibus alio modo, ſe¶
+
+habeat; _nnde ilM______iPäWlbllæ di;?ienlta-¶
+||||||||-|+||||==------|+++|==++|||==|==||||| 0.533
+habeat; un_de inſuperabi___lis__ difficulta-¶
+
+tes in determinandis fpecielnis ej_en-¶
+|||||||||||||||||||||=|||||==+||==-|||| 0.821
+tes in determinandis ſpeciebu_s offen-¶
+
+d_nnt illi , qui ex imperfeä_is illis de-¶
+|-|+||||||+||||||||||||||||=-||||||||||||| 0.881
+dun_t illi_, qui ex imperfectis illis de-¶
+
+jEriprianibns lii/efli: did_ingnere €?"¶
+==|||=|=|||=||===+|===+|||=-|||=||||=++| 0.525
+ſcriptionibus Inſ_ecta_ diſtinguere &__¶
+
+adgn__cycere cupiant. Ei þzne_niln'l ad¶
+|+||--|++||||||||=|||||=|==||-||==+||||| 0.675
+a_gnoſc__ere cupiunt. Et ſane nihi_l ad¶
+
+Hiffofiæ ZVatnralis inerenieinz_mz nza-¶
+||==|=|||=+||=||||||||=||=+|+|=-|+|=+||| 0.625
+Hiſtoriæ N_aturalis increm_e_ntum_ m_a-¶
+
+Lvis projïcere pofle putarem, quam, 5_¶
+=+||||||==|||||||==|||||||||||||||||=-| 0.795
+g_is proficere poſſe putarem, quam, ſi¶
+
+plnres lion-iines, in' qualibet regiane,¶
+||=||||=+|=+|+|||||||+||||||||||||||=|||| 0.805
+plures h_om_i_nes, in_ qualibet regione,¶
+
+naturalia Omnia [edit/0 dcyä'ilierent,¶
+||||||||||=|||||=||====||===+|=+||||||| 0.692
+naturalia omnia ſedulo_ deſr_ib_erent,¶
+
+pofieris cbaraäïeresjþ_ecgi__cos/l_atiieri-¶
+||==||||||=|||==||||==-||+|--|||==-||=+|=+|| 0.591
+poſteris characteres ſpec_ificos ſtatu_en_-¶
+
+di_jure relifïa, quibus ignotis, nulla de¶
+||-|||||||||===||||||||||||||||||||||||||| 0.905
+di jure relicto, quibus ignotis, nulla de¶
+
+Generibus, inzo neque de Cla/jilnis eer-¶
+||||||||||||=+||||||||||||||==|==+||=|||| 0.805
+Generibus, im_o neque de Claſſibu_s cer-¶
+
+titnda; cum omnis vera cognitio,_co-¶
+|||=|=||||||||||||||||||||||||||-|||| 0.919
+titudo; cum omnis vera cognitio, co-¶
+
+gnitioni fpecierum innitatur. LINN.¶
+|||||||||=|||||||||||||||||||||||||| 0.972
+gnitioni ſpecierum innitatur. LINN.¶
+
+Or-¶
+|||| 1.000
+Or-¶
+
+             lines  words  chars
+items ocr:      20     99    726 
+items grt:      20    106    708 
+matches:         1     43    558 
+edits:          19     67    199 
+ subss:         19     52    119 
+ inserts:        0      4     49 
+ deletions:      0     11     31 
+precision:  0.0500 0.4343 0.7686 
+recall:     0.0500 0.4057 0.7881 
+accuracy:   0.0500 0.3909 0.7371 
+f-score:    0.0500 0.4195 0.7782

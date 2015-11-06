@@ -1,0 +1,94 @@
+# ocr_compare of abby versus corr = ground truth
+
+P_R-ffiF_A_T_I_O.¶
+|-|===+|-|-|-|-||| 0.500
+P R Æ _F A T I O.¶
+
+efl differentia illaf_pecifica, am_ ab uno¶
+|==|||||||||||||||||=-||||||||||==-|||||||| 0.837
+eſt differentia illa ſpecifica, quæ ab uno¶
+
+aliovef_pecimine in_Mufao vifo, aut ab¶
+||||||=-|||||||||||-||==||||=|||||||||| 0.846
+aliove ſpecimine in Muſæo viſo, aut ab¶
+
+Amicis communicato defummitiir, cum¶
+|||||||||||||||||||||=|||||=+||||||| 0.917
+Amicis communicato deſummitu_r, cum¶
+
+idem_in aliis regionibus alio modof__e¶
+||||-|||||||||||||||||||||||||||||=--|| 0.897
+idem in aliis regionibus alio modo, ſe¶
+
+habeat; unde infuperabiles difficulta-¶
+|||||||||||||||=||||||||=|||||||||||||| 0.949
+habeat; unde inſuperabilis difficulta-¶
+
+tes in determinandis fpeciebus offen-¶
+|||||||||||||||||||||=|||||||||||||||| 0.974
+tes in determinandis ſpeciebus offen-¶
+
+dunt illi, qui ex imperfe&_is illis de-¶
+|||||||||||||||||||||||||=-||||||||||||| 0.950
+dunt illi, qui ex imperfectis illis de-¶
+
+Jcriptionibus Inje&_a diflinguere &*¶
+=|||||||||||||||=|=-||||==|||||||||+| 0.811
+ſcriptionibus Inſecta diſtinguere &_¶
+
+adgnofcere cuphm_t. Et fane nihil ad¶
+|+|||=||||||||==-||||||=||||||||||||| 0.838
+a_gnoſcere cupiunt. Et ſane nihil ad¶
+
+Hiftofia Naturalis incrementum ma-¶
+||=||=|=||||||||||||||||||||||||||| 0.914
+Hiſtoriæ Naturalis incrementum ma-¶
+
+gis proficere poffe putarem, quam,J_i¶
+||||||||||||||||==||||||||||||||||=-|| 0.895
+gis proficere poſſe putarem, quam, ſi¶
+
+plures haminesj iri quaiibet regione,¶
+||||||||=|||||=||=+||||=|||||||||||||| 0.868
+plures homines, in_ qualibet regione,¶
+
+naturalia omnia fedulo defcriberent_¶
+||||||||||||||||=||||||||=+||||||||-| 0.892
+naturalia omnia ſedulo deſ_riberent,¶
+
+pofteris chara&_eresf_pecificosf_tatuen-¶
+||=|||||||||||=-||||=-|||||||||=-|||||||| 0.829
+poſteris characteres ſpecificos ſtatuen-¶
+
+di_jure reli&_o, quibus ignotis, nulla dt¶
+||-|||||||||=-||||||||||||||||||||||||||=| 0.905
+di jure relicto, quibus ignotis, nulla de¶
+
+Generibus, imo neque de ClaJJibus cer-¶
+|||||||||||||||||||||||||||==|||||||||| 0.949
+Generibus, imo neque de Claſſibus cer-¶
+
+_ittudo; cum_omnis_vera_cognitio,_co-¶
+-||+||||||||-|||||-||||-|||||||||-|||| 0.842
+tit_udo; cum omnis vera cognitio, co-¶
+
+gnitioni fpecierum innitatur. Linn.¶
+|||||||||=|||||||||||||||||||||===|| 0.889
+gnitioni ſpecierum innitatur. LINN.¶
+
+Or-¶
+|||| 1.000
+Or-¶
+
+             lines  words  chars
+items ocr:      20     86    687 
+items grt:      20    106    707 
+matches:         1     48    628 
+edits:          19     58     86 
+ subss:         19     38     52 
+ inserts:        0      0      7 
+ deletions:      0     20     27 
+precision:  0.0500 0.5581 0.9141 
+recall:     0.0500 0.4528 0.8883 
+accuracy:   0.0500 0.4528 0.8796 
+f-score:    0.0500 0.5000 0.9010
